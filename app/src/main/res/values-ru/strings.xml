@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Get Push Whatsapp</string>
+    <string name="button_to_messages_from_db">К сообщениям из базы данных</string>
+    <string name="false_answer">false</string>
+    <string name="start_record_whatsapp_messages">Начать запись WhatsApp сообщений</string>
+    <string name="stop_record_whatsapp_messages">Остановить запись</string>
+    <string name="true_answer">true</string>
+    <string name="button_clear">Очистить</string>
+</resources>

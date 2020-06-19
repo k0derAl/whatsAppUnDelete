@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="dividing_line_width">5dp</dimen>
+    <dimen name="front_of_all">2dp</dimen>
+</resources>
